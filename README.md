@@ -32,36 +32,21 @@ Quer contribuir com um bate papo, palestra ou tutorial para a comunidade? Siga a
 # 📅 2021 
 
  ## 💻 Julho
-<br>
-
-  ### 21/06: 
-  <strong>Tema:</strong> Prototipando no Figma a tela "Sobre" para o site do DevChallenge<br>
-  <strong>Horário:</strong> 21h<br>
-  <strong>Link:</strong> Canal de voz Codelab - <a href="https://discord.gg/yvYXhGj">Discord do DevChallenge</a><br>
-  <strong>Moderado por:</strong> [Lorena](https://github.com/Lorenalgm)
-
-
-<br>
+| Data | Horário | Moderador | Tema | Onde | Materiais |
+| :-------- | :------- | :------- | :------- | :------- | :-------  |
+| `21/07`   | `21h` | [Lorena](https://github.com/Lorenalgm) | Prototipando no Figma a tela "Sobre" para o site do DevChallenge | Canal de voz Codelab - <a href="https://discord.gg/yvYXhGj">Discord do DevChallenge</a> | 
 
  ## 💻 Agosto
-<br>
-
-
- 
-<br>
 
  ## 💻 Setembro
-<br>
-
- ### 20/09 - 26/09: 
-  <strong>Tema:</strong> Esquenta Hacktoberfest<br>
-  <strong>Horário:</strong> à definir<br>
-  <strong>Link:</strong> à definir
  
- ## 💻 Outubro
-<br>
+ | Data | Horário | Moderador | Tema | Onde | Materiais |
+| :-------- | :------- | :------- | :------- | :------- | :-------  |
+| `20/09 - 26/09`   | - | - |Esquenta Hacktoberfest | à definir |
 
- ### 01/10 - 31/10: 
-  <strong>Tema:</strong> DevChallenge Hacktoberfest<br>
-  <strong>Horário:</strong> à definir<br>
-  <strong>Link:</strong> à definir
+
+ ## 💻 Outubro
+
+ | Data | Horário | Moderador | Tema | Onde | Materiais |
+| :-------- | :------- | :------- | :------- | :------- | :-------  |
+| `01/10 - 31/10`   | - | - | DevChallenge Hacktoberfest | à definir |
